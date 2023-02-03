@@ -42,7 +42,12 @@
 				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.uasset",
 				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FPWeapon/Mesh/FirstPersonProjectileMesh.uasset",
 				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FPWeapon/Materials/FirstPersonProjectileMaterial.uasset",
-				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FPWeapon/Materials/BaseMaterial.uasset"
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FPWeapon/Materials/BaseMaterial.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset"
 			]
 		}
 	]

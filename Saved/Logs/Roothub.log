@@ -1725,3 +1725,23 @@ Script Stack (0 frames) :
 [2023.02.03-19.06.52:309][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
 [2023.02.03-19.06.52:323][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
 [2023.02.03-19.06.52:350][130]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.02.03-19.08.40:642][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2023.02.03-19.08.41:788][542]LogSlate: Window 'Save Content' being destroyed
+[2023.02.03-19.08.41:794][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.03-19.08.41:835][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2023.02.03-19.08.41:841][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.02.03-19.08.41:848][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2023.02.03-19.08.41:859][542]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.02.03-19.08.41:859][542]LogSavePackage: Moving '../../../../../../Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Saved/BP_FirstPersonCharacterC701940D407E2EC8DDBBDDAA1CCEAFA3.tmp' to '../../../../../../Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.02.03-19.08.41:866][542]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile
+[2023.02.03-19.08.41:867][542]LogSavePackage: Moving '../../../../../../Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Saved/BP_FirstPersonProjectile850D005A469065884D297199DEE15035.tmp' to '../../../../../../Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPerson/Blueprints/BP_FirstPersonProjectile.uasset'
+[2023.02.03-19.08.41:874][542]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Pickup_Rifle
+[2023.02.03-19.08.41:874][542]LogSavePackage: Moving '../../../../../../Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Saved/BP_Pickup_RifleDBE94675435CF4421290BEA6573B9152.tmp' to '../../../../../../Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset'
+[2023.02.03-19.08.41:885][542]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Weapon_Component
+[2023.02.03-19.08.41:886][542]LogSavePackage: Moving '../../../../../../Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Saved/BP_Weapon_ComponentE075EBAD4B655926091A599421B30BF6.tmp' to '../../../../../../Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset'
+[2023.02.03-19.08.41:948][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 430 ms)
+[2023.02.03-19.08.41:951][542]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.03-19.08.41:951][542]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.02.03-19.08.41:951][542]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile
+[2023.02.03-19.08.41:951][542]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2023.02.03-19.08.41:951][542]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle
