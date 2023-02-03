@@ -1,0 +1,49 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/StarterContent/Particles/P_Ambient_Dust.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_PhysicsAsset.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPersonArms/Character/Mesh/SK_Mannequin_Arms_Skeleton.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPersonArms/Animations/FP_Run_Fwd.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPersonArms/Animations/FP_Rifle_Shoot_Montage.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPersonArms/Animations/FP_Rifle_Run.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPersonArms/Animations/FP_Rifle_Land.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPersonArms/Animations/FP_Rifle_Jump.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPersonArms/Animations/FP_Rifle_Idle.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPersonArms/Animations/FP_Rifle_Fire.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPersonArms/Animations/FP_Rifle_Falling.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPersonArms/Animations/FP_Land.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPersonArms/Animations/FP_Jump.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPersonArms/Animations/FP_Idle.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPersonArms/Animations/FP_Falling.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPersonArms/Animations/FirstPerson_AnimBP.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPersonArms/Animations/FP_Walk_Fwd.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FPWeapon/Mesh/SK_FPGun_PhysicsAsset.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FPWeapon/Materials/MaterialLayers/T_ML_FineRubber.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FPWeapon/Mesh/SK_FPGun.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FPWeapon/Mesh/SK_FPGun_Skeleton.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FPWeapon/Mesh/SK_FPGun_Physics.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FPWeapon/Materials/M_FPGun.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FPWeapon/Textures/T_FPGun_N.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FPWeapon/Textures/T_FPGun_M.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FPWeapon/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FPWeapon/Materials/MaterialLayers/T_ML_Aluminum01.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FPWeapon/Materials/MaterialLayers/ML_Screen.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FPWeapon/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FPWeapon/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FPWeapon/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FPWeapon/Audio/FirstPersonTemplateWeaponFire02.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FPWeapon/Mesh/FirstPersonProjectileMesh.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FPWeapon/Materials/FirstPersonProjectileMaterial.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FPWeapon/Materials/BaseMaterial.uasset"
+			]
+		}
+	]
+}
