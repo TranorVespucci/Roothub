@@ -1363,3 +1363,87 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2023.02.04-11.01.30:469][273]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
 [2023.02.04-11.01.34:962][532]LogContentBrowser: Attempting asset rename: NewFolder -> Character
 [2023.02.04-11.01.34:963][532]LogContentBrowser: End creating deferred item NewFolder
+[2023.02.04-11.02.40:092][145]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Leahs Laptop/Documents/maya/projects/GameJam_soul01/scenes/soul_1.fbx)
+[2023.02.04-11.02.40:111][145]LogFbx: Loading FBX Scene from ../../../../../../Users/Leahs Laptop/Documents/maya/projects/GameJam_soul01/scenes/soul_1.fbx
+[2023.02.04-11.02.40:165][145]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.04-11.03.49:792][145]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.02.04-11.03.49:841][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.02.04-11.03.49:842][145]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2023.02.04-11.03.49:959][145]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2023.02.04-11.03.49:961][145]FBXImport: FBX File Loading: Found name clash, node 'height' was renamed to 'height1' 
+[2023.02.04-11.03.49:961][145]FBXImport: Import was canceled. 
+[2023.02.04-11.03.50:039][145]LogAssetTools: The import task was canceled.
+[2023.02.04-11.03.50:337][149]LogHttp: Warning: 000007195324DC00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B77A8C51C-41A1-A1FB-144B-538EAB849F2C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=aa6ce57746145a6bd53c46a7a4af6b7e%7Cc494d46a8ed946639dc96f44fc4a21b4%7C50229d0c-f758-4543-969f-5265fdb541d8&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.02.04-11.03.50:337][149]LogHttp: Warning: 000007195324DC00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.02.04-11.03.50:337][149]LogHttp: Warning: 000007195324DC00: libcurl info message cache 0 (Found bundle for host: 0x71909960000 [serially])
+[2023.02.04-11.03.50:337][149]LogHttp: Warning: 000007195324DC00: libcurl info message cache 1 (Re-using existing connection #0 with host datarouter.ol.epicgames.com)
+[2023.02.04-11.03.50:337][149]LogHttp: Warning: 000007195324DC00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.45.37.25) port 443 (#0))
+[2023.02.04-11.03.50:337][149]LogHttp: Warning: 000007195324DC00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.02.04-11.03.50:337][149]LogHttp: Warning: 000007195324DC00: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2023.02.04-11.03.50:337][149]LogHttp: Warning: 000007195324DC00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2023.02.04-11.03.50:337][149]LogHttp: Warning: 000007195324DC00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.02.04-11.03.50:338][149]LogHttp: Warning: 000007195324DC00: libcurl info message cache 7 (Closing connection 0)
+[2023.02.04-11.03.50:338][149]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B77A8C51C-41A1-A1FB-144B-538EAB849F2C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=aa6ce57746145a6bd53c46a7a4af6b7e%7Cc494d46a8ed946639dc96f44fc4a21b4%7C50229d0c-f758-4543-969f-5265fdb541d8&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.02.04-11.03.52:768][287]LogSlate: Window 'Message Log' being destroyed
+[2023.02.04-11.03.52:774][287]LogSlate: Window 'Message Log' being destroyed
+[2023.02.04-11.04.14:468][760]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Leahs Laptop\Documents\maya\projects\GameJam_soul01\scenes\soul_1.fbx)
+[2023.02.04-11.04.14:475][760]LogFbx: Loading FBX Scene from C:\Users\Leahs Laptop\Documents\maya\projects\GameJam_soul01\scenes\soul_1.fbx
+[2023.02.04-11.04.14:525][760]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.04-11.06.59:919][760]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.02.04-11.06.59:949][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2023.02.04-11.06.59:950][760]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2023.02.04-11.07.00:059][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2023.02.04-11.07.00:059][760]FBXImport: FBX File Loading: Found name clash, node 'height' was renamed to 'height1' 
+[2023.02.04-11.07.00:059][760]FBXImport: Import was canceled. 
+[2023.02.04-11.07.00:131][760]LogAssetTools: The import task was canceled.
+[2023.02.04-11.07.01:114][805]LogSlate: Window 'Message Log' being destroyed
+[2023.02.04-11.07.01:120][805]LogSlate: Window 'Message Log' being destroyed
+[2023.02.04-11.07.58:868][790]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Leahs Laptop/Documents/maya/projects/GameJam_soul01/scenes/soul_1_0.fbx)
+[2023.02.04-11.07.58:875][790]LogFbx: Loading FBX Scene from ../../../../../../Users/Leahs Laptop/Documents/maya/projects/GameJam_soul01/scenes/soul_1_0.fbx
+[2023.02.04-11.07.58:926][790]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.04-11.08.01:119][790]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.02.04-11.08.01:142][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2023.02.04-11.08.01:143][790]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2023.02.04-11.08.01:245][790]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.02.04-11.08.01:246][790]FBXImport: Import was canceled. 
+[2023.02.04-11.08.01:297][790]LogAssetTools: The import task was canceled.
+[2023.02.04-11.08.04:797][987]LogSlate: Window 'Message Log' being destroyed
+[2023.02.04-11.08.04:802][987]LogSlate: Window 'Message Log' being destroyed
+[2023.02.04-11.10.26:074][725]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Leahs Laptop/Documents/maya/projects/GameJam_soul01/scenes/soul_1_0.fbx)
+[2023.02.04-11.10.26:081][725]LogFbx: Loading FBX Scene from ../../../../../../Users/Leahs Laptop/Documents/maya/projects/GameJam_soul01/scenes/soul_1_0.fbx
+[2023.02.04-11.10.26:129][725]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.04-11.10.36:643][725]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.02.04-11.10.36:667][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2023.02.04-11.10.36:667][725]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2023.02.04-11.10.36:767][725]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.02.04-11.10.36:767][725]FBXImport: Import was canceled. 
+[2023.02.04-11.10.36:829][725]LogAssetTools: The import task was canceled.
+[2023.02.04-11.10.37:091][727]LogHttp: Warning: 00000719180E6900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B77A8C51C-41A1-A1FB-144B-538EAB849F2C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=aa6ce57746145a6bd53c46a7a4af6b7e%7Cc494d46a8ed946639dc96f44fc4a21b4%7C50229d0c-f758-4543-969f-5265fdb541d8&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.02.04-11.10.37:092][727]LogHttp: Warning: 00000719180E6900: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2023.02.04-11.10.37:092][727]LogHttp: Warning: 00000719180E6900: libcurl info message cache 0 (Found bundle for host: 0x71909960ed0 [serially])
+[2023.02.04-11.10.37:092][727]LogHttp: Warning: 00000719180E6900: libcurl info message cache 1 (Re-using existing connection #1 with host datarouter.ol.epicgames.com)
+[2023.02.04-11.10.37:092][727]LogHttp: Warning: 00000719180E6900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.3.43.16) port 443 (#1))
+[2023.02.04-11.10.37:092][727]LogHttp: Warning: 00000719180E6900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.02.04-11.10.37:092][727]LogHttp: Warning: 00000719180E6900: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2023.02.04-11.10.37:092][727]LogHttp: Warning: 00000719180E6900: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2023.02.04-11.10.37:092][727]LogHttp: Warning: 00000719180E6900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.02.04-11.10.37:092][727]LogHttp: Warning: 00000719180E6900: libcurl info message cache 7 (Closing connection 1)
+[2023.02.04-11.10.37:092][727]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B77A8C51C-41A1-A1FB-144B-538EAB849F2C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.0-23058290%2B%2B%2BUE5%2BRelease-5.1&UserID=aa6ce57746145a6bd53c46a7a4af6b7e%7Cc494d46a8ed946639dc96f44fc4a21b4%7C50229d0c-f758-4543-969f-5265fdb541d8&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.02.04-11.10.53:364][699]LogSlate: Window 'Message Log' being destroyed
+[2023.02.04-11.10.53:369][699]LogSlate: Window 'Message Log' being destroyed
+[2023.02.04-11.11.48:143][383]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Leahs Laptop\Documents\maya\projects\GameJam_soul01\scenes\soul_1_0.fbx)
+[2023.02.04-11.11.48:152][383]LogFbx: Loading FBX Scene from C:\Users\Leahs Laptop\Documents\maya\projects\GameJam_soul01\scenes\soul_1_0.fbx
+[2023.02.04-11.11.48:198][383]LogFbx: FBX Scene Loaded Succesfully
+[2023.02.04-11.13.34:156][383]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.02.04-11.13.34:182][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.02.04-11.13.34:183][383]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2023.02.04-11.13.34:288][383]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.02.04-11.13.34:289][383]FBXImport: Import was canceled. 
+[2023.02.04-11.13.34:341][383]LogAssetTools: The import task was canceled.
+[2023.02.04-11.13.35:802][389]LogSlate: Window 'Message Log' being destroyed
+[2023.02.04-11.13.35:808][389]LogSlate: Window 'Message Log' being destroyed
+[2023.02.04-11.13.51:652][980]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.02.04-11.13.51:726][980]LogContentBrowser: Creating deferred item: NewFolder
+[2023.02.04-11.13.51:751][982]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.02.04-11.13.56:453][264]LogContentBrowser: Attempting asset rename: NewFolder -> NPCS
+[2023.02.04-11.13.56:453][264]LogContentBrowser: End creating deferred item NewFolder
