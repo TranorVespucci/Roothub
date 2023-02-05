@@ -6,13 +6,31 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UH/KUB346K1QG7K2OXDN950SX.uasset",
-				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/O5/RDZO1OAOMCFEATZDZFH0OU.uasset",
 				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/3D-Assets/Roothub/Character/NPCS/soul_blue/Soul_green.uasset",
 				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/3D-Assets/Roothub/Character/NPCS/soul_blue/Soul_yellow.uasset",
 				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/3D-Assets/Roothub/Character/NPCS/soul_blue/soul_red.uasset",
 				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPerson/Blueprints/BP_AIChar.uasset",
-				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/OY/JD89UXMN7754LXUX0E7TRF.uasset"
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/OY/JD89UXMN7754LXUX0E7TRF.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPerson/Blueprints/UI/UI_Pause.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPerson/Blueprints/UI/UI_Start.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPerson/Blueprints/UI/Texture/Win_Screen.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPerson/Blueprints/UI/Texture/Start.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPerson/Blueprints/UI/Texture/Pause.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPerson/Blueprints/UI/Texture/Death_Screen.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPerson/Blueprints/UI/UI_Credit.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPerson/Blueprints/UI/UI_Death.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPerson/Blueprints/UI/UI_Intro.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPerson/Blueprints/UI/Texture/Tutorial.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPerson/Blueprints/UI/Beginning.umap",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPerson/Blueprints/UI/Start.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPerson/Blueprints/UI/MainMenu_PC.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/1O/13EG31VN0HREHJD501ZZ1S.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UH/KUB346K1QG7K2OXDN950SX.uasset",
+				"C:/Users/goerk/OneDrive/Dokumente/GitHub/Roothub/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/O5/RDZO1OAOMCFEATZDZFH0OU.uasset"
 			]
 		}
 	]
